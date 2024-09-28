@@ -123,7 +123,7 @@ body {
     color: var(--botao-azul);
 }
 .lista__link a:active {
-    color: purple;
+    color: #3900ff;
 }
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
